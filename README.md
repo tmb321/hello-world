@@ -1,6 +1,8 @@
 # hello-world
 
 Hello World, This is a simple exploration of GitHub's branching from the main. That's all folk!
+
+Hello World
 url: https://guides.github.com/activities/hello-world/
 
 Basic writing and formatting syntax
